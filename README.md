@@ -8,7 +8,7 @@ Elsevier, Information Technology and Quantitative Management,
 Image Segmentation via Improving Clustering Algorithms with Density and Distance, 21 July 2015, 
 https://www.sciencedirect.com/science/article/pii/S1877050915015719
 
-The algorithm is based implemented efficiently, working with 'Image cubes' rather than the individual pixel values in an image. 
+The algorithm is implemented efficiently, working with 'Image cubes' rather than the individual pixel values in an image. 
 
 The results are compared with the traditional KMeans clustering algorithm. 
 
